@@ -1,0 +1,9 @@
+table, th, td {
+    border: 1px solid black;
+    height: 50px;
+    cursor: pointer;
+}
+
+th, td {
+    padding: 15px;
+}
