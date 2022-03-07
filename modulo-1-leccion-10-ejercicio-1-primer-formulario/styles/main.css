@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header ul {
+  list-style-type: none;
+}
+
+header ul li {
+  padding-right: 20px;
+}
+
+input {
+  display: block;
+  margin-bottom: 20px;
+}
+
+.container {
+  width: 100%;
+  background-color: rgb(230, 110, 140);
+  font-size: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: lighter;
+  padding: 20px;
+  color: aliceblue;
+}
+
+.form-name {
+  padding: 20px 20px 20px 20px;
+}
