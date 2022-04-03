@@ -1,7 +1,5 @@
 'use strict';
 
-//EJERCICIO 2. API USUARIOS DE GITHUB
-
 const userGithub = document.querySelector('.js_userGithub');
 const buttonSearch = document.querySelector('.js_buttonSearch');
 
