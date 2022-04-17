@@ -1,0 +1,45 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+
+.div{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  vertical-align: middle;
+
+}
+
+.input{
+  margin: 20px;
+}
+
+
+.title{
+  color: grey;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 30px;
+  font-weight: 600;
+  padding: 20px;
+}
+
+
+.button {
+  background-color: #f953ba; 
+  border:0.16em solid #c9c5c5;
+  color: white;
+  padding: 3px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px; 
+  margin: 20px;
+}
+
+.button:hover{
+  cursor: pointer;
+  background-color: #f6069a;
+  border-color:#b10879;
+}
