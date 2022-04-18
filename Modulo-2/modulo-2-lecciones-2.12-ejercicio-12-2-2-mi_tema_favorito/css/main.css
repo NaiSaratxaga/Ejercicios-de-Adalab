@@ -1,0 +1,36 @@
+*{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.div{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  vertical-align: middle;
+}
+
+.title{
+  color: grey;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 30px;
+  font-weight: 600;
+  padding: 20px;
+}
+
+.fondo_claro{
+background-color: azure;
+color: black;
+padding: 20px;
+}
+
+.fondo_oscuro{
+background-color: blue;
+color: azure;
+padding: 20px;
+}
+
+.parrafo{
+  margin: 20px;
+}
